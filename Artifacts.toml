@@ -1,0 +1,312 @@
+[[blockSQP]]
+arch = "aarch64"
+git-tree-sha1 = "15959b95fb2fbdd3bb331619ef142539feec05a5"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[blockSQP.download]]
+    sha256 = "790d30118bd82fca535d25184650daca1323b769164d0ac5e800035038b469ea"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "aarch64"
+git-tree-sha1 = "c8f1edd9e68f16c7c8b4366224768076de440aac"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[blockSQP.download]]
+    sha256 = "e37dc8512704e861f330120f2542c613730b532bb336ceb508fad901290617fd"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "aarch64"
+git-tree-sha1 = "d0f8cc9917a91df4dd4b54acb9b84acce199f58c"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[blockSQP.download]]
+    sha256 = "4b2cdc2417e4bbc05c9b9ba63afecc0baaa0e3da25c12bc01511566e7f9acd54"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "84b112bc44cca749da80378bf8eb6fa6920d5785"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "a9d541a1a2df42db0940c00272620406d7b58f40ae1ef53917df61dc2974eef2"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "22ddc077fe3e7dfe708c2e8424caa06458492e92"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "7cbb740cd7fd2c6392fce3fb43665c6300ab463601847222bd8b1ab992f63fc8"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "687dae50cb2376607b6bf67fa4e681d2276fec7f"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "ce96461b00a953b5764928c6d817fbb8752f49b7720c48b583697dcfca508e76"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d878d072ee0cb16087099973b55b013c04d1bef1"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "a7508bcb9f11c00a4fae0a6b8156add2b9e4141f8a9ad1c2afa06360db6d0e35"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54abd7b497b785af08234d0f8035f53b185ddbda"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "072b899d2d1cea2e78ada2f7f424bf9723904321dc876e5d1dcc13830a95a624"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c8bf7dde7f2511fbdb96687259b02ac6aac9ddf1"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "6f689474466cc6295227b63072d0bfe05e67c4cfcc459caca284f01548108066"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6272805da1eed84cf87b4823a07fce92c33c6f69"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "932a9f38ec6db8602932f6f75aa96c67a93503cad7d5b0c929f64d31fb38d657"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fad523770d55d12dda453076443b4cc35f95349d"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "d5c5ee1b512a7f4948c7594638aaf3689044ce52b5567660d7f13cdbe6502676"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80f1d780ba65fd07dced6404e27d39df50502aca"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "2c2fca6aac9cda3c2d7f24ccbe1d4aa2e7f9719ca48ad50e85b285d6d1d478fb"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "436b7926647522f719d2fd4cc317e0ed4e220799"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "46a6c41fd029f09fadb280d052432a2e5120b85fde2f5fbdd7a8328bb8b2d51c"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4a04b8a2d77206f50760293d75fec64ae539d66c"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "3de26634fa68b4908903db649f01ca5290b6d484c5f90034d8a579c222dd1dc4"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4eb5a7e943be0be803508b0dbf761763f0ee5ed1"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "d6ced2592c157d486fcfe94b738cdf83348cd4a8e2bfde47faf89295ebb49acd"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+git-tree-sha1 = "4fcd421084ab0d0d8995148939d43b0141eb120c"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[blockSQP.download]]
+    sha256 = "b960dadcd2bdb477e21eeeca572fe8badc63c7c53f2ac2830b2955fed6327d16"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+git-tree-sha1 = "c91bf6222b8f759bfe878374b86b3455a059e950"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[blockSQP.download]]
+    sha256 = "daa7cecc83f0c82224994a7ba3a79e5fc6ebbc72073af185cba1c52aefd14010"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+git-tree-sha1 = "0f6cfdf1a8ced48fd7a162025623102ea6bdae48"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[blockSQP.download]]
+    sha256 = "4b2f9dd5a3f9e71622174708af73385a54d398883f281d0108cc60a803205709"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "03597521a74faccb8bf544ee37848080e2fdeaa2"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "5b5a71e54cc3892ba7748ce4551ef7f8bc3822388a396aad0d76bccec8f07ab7"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "037d6bfd9f203256fb2e5510e7038879155b164f"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "c48b074d60f95af1ff4f3dd4d59797345633047a070d63c6dd07c335f87176b9"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d059252125f5a0a4229ba5e04a091b43084333b4"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "ccb9a8b52dfcdf16a3a17d0b05b228d8ed997096ff7dc1e94c50e095da6805c7"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27b88be9b9b9604ed670f863fe0bb7bf79083685"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "796627e96ffddb3f6d451a1314f47bca704736f2e9ce3514d90a1b7d3fc414d4"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54e41e32be4b6b6b8d3a4e8dd37d868c465b6bc2"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "3536dc4edaf6705e34e933815359f8fe8a077e2fbfdad49d74589cb35d3e0322"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97069419e74526e45b27d27951b0d365d7ee1fa2"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[blockSQP.download]]
+    sha256 = "188d4b5e5026a283956a22071023da0c84516497d0d3fff04f1e695b4b79367a"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a283385a7136d393ec9397ba3dc71c9d2ec2adde"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[blockSQP.download]]
+    sha256 = "2fd9ad7dfe11cf927d94749444bfb89577c0117d11db61153238c96c97ac6c73"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "305c0456eeb9131bf590bd9b9a4de708328d11b2"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[blockSQP.download]]
+    sha256 = "dae494d004b4bc1d827dcd656f173d77bbfa7a8b86e31bb6e2ea1b6534e8e5ba"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dd3c31d3cb010cb0071a065f7ee65d8bcecd93e8"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[blockSQP.download]]
+    sha256 = "f171e271f7f324a8a2e12a797adf4f4819dc427fcd04bdc4439fd4c4b39e39f8"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2cebfe4622031da2e75a9d08cb85d389714c7ef9"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[blockSQP.download]]
+    sha256 = "0cb960f6de925c73098a66361bdf8053f2afe372f3f57e59c594122d254f883f"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "242e0708efb30dc33048c56912fd1bc4b4f4e3c0"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[blockSQP.download]]
+    sha256 = "1ea0ccd9db95b238df475f0b86a0307f18cfa8cf15e10aff8603aa692b25d704"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[blockSQP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a21beaf86648bedabe99338c471b8adb0c5b1a47"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[blockSQP.download]]
+    sha256 = "afc793591f10ab6f0b475992c6ccf505eef9f39abe268b95cd6b42364e2acf69"
+    url = "https://github.com/chplate/blockSQP/releases/download/blockSQP-v0.0.1+0/blockSQP.v0.0.1.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"

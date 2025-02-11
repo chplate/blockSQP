@@ -1,0 +1,19 @@
+name = "blockSQP_jll"
+uuid = "fec014c7-73d5-5f83-866b-eea102cb7f01"
+version = "0.0.1+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
+qpOASES_jll = "f16e1b62-db32-537f-94d1-ea38eaaf9298"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.10"
+libcxxwrap_julia_jll = "0.13.4"
+qpOASES_jll = "3.2.1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
